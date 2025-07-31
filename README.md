@@ -33,48 +33,50 @@ This is a basic speech-to-text system I built as part of my **CodTech AI Interns
 
 ## 💻 How to Run
 
-1. **Clone this repository** or download the project folder.
-2. Make sure Python is installed (3.8 or above recommended).
-3. Install dependencies:
+1. **Clone this repository** or download the project folder.  
+2. Make sure Python is installed (3.8 or above recommended).  
+3. Install dependencies:  
 
 ```bash
 pip install -r requirements.txt
 ```
-4.	Run the main script:
+4. Run the main script:
 
 ```bash
 python speech_to_text.py
 ```
-5.	Speak when prompted, and your transcribed text will appear right after.
+5. Speak when prompted, and your transcribed text will appear right after.
 
 
-✅ Task-2 Internship Goal
+## ✅ Task-2 Internship Goal
 
 “Build a basic speech-to-text system using pre-trained models like SpeechRecognition or Wav2Vec.”
 
 This project meets that goal using Wav2Vec2, which provides deep learning-based transcription with good accuracy.
 
-⸻
+---
 
-📁 Project Structure
-
+## 📁 Project Structure
+<pre>
 SpeechToTextSystem/
 │
 ├── speech_to_text.py        # Main script
 ├── requirements.txt         # Required libraries
 ├── .gitignore               # Ignore wav and cache files
 └── live_audio.wav           # Auto-generated at runtime
+</pre>
 
 ---
 
-📌 Notes
-	•	Works best with clear audio and little background noise.
-	•	live_audio.wav is automatically created on every run — no need to upload it to GitHub.
+## 📌 Notes
+• Works best with clear audio and little background noise.
+• live_audio.wav is automatically created on every run — no need to upload it to GitHub.
 
-⸻
+---
 
-🙋‍♂️ Made By
+##  🙋‍♂️ Made By
 
-👤 Author
-Anas Bin Fares Lardi GitHub 👉🏻 https://github.com/simplyclone-sc/  
-LinkedIn 👉🏻 https://www.linkedin.com/in/anas-lardi-b41a16375/  
+### 👤 Author
+Anas Bin Fares Lardi  
+GitHub 👉🏻 https://github.com/simplyclone-sc/    
+LinkedIn 👉🏻 https://www.linkedin.com/in/anas-lardi-b41a16375/    

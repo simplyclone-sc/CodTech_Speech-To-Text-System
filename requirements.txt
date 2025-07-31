@@ -1,0 +1,7 @@
+torch
+transformers
+librosa
+sounddevice
+scipy
+
+# pip install -r requirements.txt 
